@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/zwAH1gk.png" height="40%" width="60%"/>
 </p>
 
-<h1>Configuring On-premises Active Directory within Azure VMs</h1>
+<h1>Creating and configuring Azure SQL database</h1>
 
 In this project, I created and deployed an Azure SQL database.<br />
 
@@ -70,8 +70,8 @@ When connecting to the SQL server there are a couple of ways to do it. I choose 
 <p>
 I also added a lock to my database to prevent deletion of my database so that other people working in the resource group could not accidentally delete it if they were trying to modify something within the Azure settings.
 </p>
-<img src="https://i.imgur.com/lzUMtp1.png" height="70%" width="70%"/>
-<img src="https://i.imgur.com/WF5lwhY.png" height="70%" width="70%"/>
+<img src="https://i.imgur.com/LjZ8YzN.png" height="70%" width="70%"/>
+
 <br />
 
 
