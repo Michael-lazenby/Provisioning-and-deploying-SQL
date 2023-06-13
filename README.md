@@ -22,7 +22,7 @@
 
 
 
-<h3>Step one: provisioning Azure SQL database</h3>
+<h3>Step 1: Provisioning Azure SQL database</h3>
 <p>
 When creating an Azure SQL database the first thing you want to do is to create a resource group. Putting the database in a resource group makes it easier control access and it keeps everything nice and clean.
 <p>
@@ -47,7 +47,7 @@ The first thing I did to create my SQL Platform as a Service Database was clicki
 </p>
 
 <br/>
-<h3>Step two: setting up Firewall and adding client IP</h3>
+<h3>Step 2: Setting up Firewall and adding client IP</h3>
 
 <p>
 The first thing I did to set up my firewall for the SQL database was by selecting “Networking”, and then I gave my client machine access by clicking “Add your client IPv4 address” and this updated the firewall rules so I could connect to it.</p>
@@ -56,7 +56,7 @@ The first thing I did to set up my firewall for the SQL database was by selectin
 <br />
 
 
-<h3>Step three: Connecting to SQL server</h3>
+<h3>Step 3: Connecting to SQL server</h3>
 <p>
 When connecting to the SQL server there are a couple of ways to do it. I choose to login through the Query editor but I could have also logged in using “SQL Server Management Studio”. </p>
 
@@ -65,7 +65,7 @@ When connecting to the SQL server there are a couple of ways to do it. I choose 
 <br />
 
 
-<h3>Step four: Adding locks to resource groups</h3>
+<h3>Step 4: Adding locks to resource groups</h3>
 <p>
 I also added a lock to my database to prevent deletion of my database so that other people working in the resource group could not accidentally delete it if they were trying to modify something within the Azure settings.
 </p>
