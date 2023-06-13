@@ -53,7 +53,6 @@ The first thing I did to create my SQL Platform as a Service Database was clicki
 
 <p>
 The first thing I did to set up my firewall for the SQL database was by selecting “Networking”, and then I gave my client machine access by clicking “Add your client IPv4 address” and this updated the firewall rules so I could connect to it.</p>
-<img src="https://i.imgur.com/afGXoqY.png" height="70%" width="70%"/>
 </p>
 <br />
 
