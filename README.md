@@ -67,7 +67,7 @@ When connecting to the SQL server there are a couple of ways to do it. I choose 
 
 <h3>Step 4: Adding locks to resource groups</h3>
 <p>
-I also added a lock to my database to prevent deletion of my database so that other people working in the resource group could not accidentally delete it if they were trying to modify something within the Azure settings.
+I also added a resource lock to the database to prevent it from being accidentally deleted. Resource locks are crucial in a development setting because they can prevent users from deleting resources or people from modifying them who do not have the correct permissions. 
 </p>
 <img src="https://i.imgur.com/LjZ8YzN.png" height="70%" width="70%"/>
 
