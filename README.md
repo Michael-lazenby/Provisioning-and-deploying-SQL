@@ -50,7 +50,7 @@ The first thing I did to create my SQL Platform as a Service Database was clicki
 <h3>Step 2: Setting up Firewall and adding client IP</h3>
 
 <p>
-The first thing I did to set up my firewall for the SQL database was by selecting “Networking”, and then I gave my client machine access by clicking “Add your client IPv4 address” and this updated the firewall rules so I could connect to it.</p>
+The first thing I did to set up my firewall for the SQL database was by selecting “Networking”, and then I gave my client machine access by clicking “Add your client IPv4 address” and this updated the firewall rules so I could connect to it.The reason it is important to configure a firewall is that it protects the database from malicious attacks.</p>
 </p>
 <img src="https://i.imgur.com/LE76YX6.png" height="70%" width="70%"/>
 <br />
@@ -58,7 +58,7 @@ The first thing I did to set up my firewall for the SQL database was by selectin
 
 <h3>Step 3: Connecting to SQL server</h3>
 <p>
-When connecting to the SQL server there are a couple of ways to do it. I choose to login through the Query editor but I could have also logged in using “SQL Server Management Studio”. </p>
+When connecting to the SQL server there are a couple of ways to do it. I choose to login through the Query editor but I could have also logged in using “SQL Server Management Studio”. If you are on a Mac you can download SQL Server management studio by using Docker or creating a VM. </p>
 
 <img src="https://i.imgur.com/QlOBCyM.png" height="70%" width="70%"/>
 <img src="https://i.imgur.com/TzG84U2.png" height="70%" width="70%"/>
