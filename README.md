@@ -4,8 +4,6 @@
 
 <h1>Creating and configuring Azure SQL database</h1>
 
-In this project, I created and deployed an Azure SQL database.<br />
-
 
 <h2>Environments and Technologies Used</h2>
 
