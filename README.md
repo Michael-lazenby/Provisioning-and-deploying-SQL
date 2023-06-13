@@ -26,7 +26,7 @@
 <p>
 When creating an Azure SQL database the first thing you want to do is to create a resource group. Putting the database in a resource group makes it easier control access and it keeps everything nice and clean.
 <p>
-<img src="https://i.imgur.com/zwAH1gk.png" height="70%" width="70%"/>
+<img src="https://i.imgur.com/3zoC1GH.png" height="70%" width="70%"/>
 </p>
 
 <br />
