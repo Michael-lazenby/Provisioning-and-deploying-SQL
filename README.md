@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/w7amRI0.png" height="40%" width="60%"/>
+<img src="https://i.imgur.com/zwAH1gk.png" height="40%" width="60%"/>
 </p>
 
 <h1>Configuring On-premises Active Directory within Azure VMs</h1>
