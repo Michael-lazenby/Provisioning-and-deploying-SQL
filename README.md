@@ -24,7 +24,7 @@
 
 <h3>Step one: provisioning Azure SQL database</h3>
 <p>
-When creating an Azure SQL database the first thing you want to do is to create a resource group. Putting the database in a resource group makes it easier control access and it keeps everything nice an clean.
+When creating an Azure SQL database the first thing you want to do is to create a resource group. Putting the database in a resource group makes it easier control access and it keeps everything nice and clean.
 <p>
 <img src="https://i.imgur.com/zwAH1gk.png" height="70%" width="70%"/>
 </p>
