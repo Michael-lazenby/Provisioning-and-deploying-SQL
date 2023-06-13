@@ -62,6 +62,7 @@ The first thing I did to set up my firewall for the SQL database was by selectin
 When connecting to the SQL server there are a couple of ways to do it. I choose to login through the Query editor but I could have also logged in using “SQL Server Management Studio”. </p>
 
 <img src="https://i.imgur.com/QlOBCyM.png" height="70%" width="70%"/>
+<img src="https://i.imgur.com/TzG84U2.png" height="70%" width="70%"/>
 <br />
 
 
